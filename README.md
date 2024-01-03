@@ -5,13 +5,9 @@
   ## Get Started 🚀  
   > [!TIP]
   > pip install flask
-  >
-
-  > [!TIP]
+  > 
   > pip install pytesseract
   >
-
-  > [!TIP]
   > pip install Pillow
   >
 
